@@ -2,7 +2,7 @@ from random import randrange
 
 def is_valid(arg):
     return arg.isdigit() and int(arg) in range(1, 100)
-
+#s
 
 def in_range():
     while True:
