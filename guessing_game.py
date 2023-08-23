@@ -1,5 +1,4 @@
 from random import randrange
-#some_changes
 
 def is_valid(arg):
     return arg.isdigit() and int(arg) in range(1, 100)
